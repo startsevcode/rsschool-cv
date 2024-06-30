@@ -25,3 +25,11 @@ I'm a junior front-end developer passionate about creating intuitive and respons
 </body>
 </html>
 ```
+## Education
+* **University:** National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute"
+* **Course:** [JavaScript / Front-end Course](https://rs.school/courses/javascript-preschool-ru)
+## Languages
+* **English:** B2
+* **German:** B2
+* **Russian:** Native Speaker
+* **Ukranian:** Native Speaker
