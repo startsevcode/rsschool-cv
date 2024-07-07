@@ -1,2 +1,2 @@
 # rsschool-cv
-[cv](https://startsevcode.github.io/rsschool-cv/cv)
+[cv](https://GITHUB-USERNAME.github.io/rsschool-cv/)
