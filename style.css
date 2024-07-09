@@ -1,6 +1,3 @@
-<<<<<<< rsschool-cv-html
-
-=======
 h2 {
     color: blue;
 }
@@ -25,4 +22,13 @@ footer {
     text-align: center;
     margin-top: 20px;
 }
->>>>>>> gh-pages
+
+#courseLogo {
+    width: 50%;
+    height: 50%;
+}
+
+#myPhoto {
+    width: 25%;
+    height: 25%;
+}
